@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github. Инфраструктура для ваших проектов/Версия 2.md",
+                "file": "Github. Инфраструктура для ваших проектов/Тезисы.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github. Инфраструктура для ваших проектов/Версия 2.md",
+                "file": "Github. Инфраструктура для ваших проектов/Тезисы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github. Инфраструктура для ваших проектов/Версия 2.md",
+                "file": "Github. Инфраструктура для ваших проектов/Тезисы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github. Инфраструктура для ваших проектов/Версия 2.md"
+                "file": "Github. Инфраструктура для ваших проектов/Тезисы.md"
               }
             }
           },
@@ -156,5 +156,9 @@
     }
   },
   "active": "6345726126ad37a7",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Github. Инфраструктура для ваших проектов/Версия 3.md",
+    "Github. Инфраструктура для ваших проектов/Тезисы.md",
+    "Github. Инфраструктура для ваших проектов/Версия 2.md"
+  ]
 }
